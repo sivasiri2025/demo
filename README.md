@@ -1,3 +1,3 @@
 # demo
 
-Thsi is a springboot project with connection database to Postgressql
+This is a springboot project with connection database to Postgressql
